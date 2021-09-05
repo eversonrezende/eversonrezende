@@ -7,7 +7,7 @@
   -	Suporte ao Usuário
   -	Sistema hospitalar TASY Philips
 
-- 🌱 Atualmente estou focando nos estudos em Java e Angular.
+- 🌱 Atualmente estou focando nos estudos em HTML, CSS e Javascript.
 
  <div>
   <a href="https://github.com/eversonrezende">
