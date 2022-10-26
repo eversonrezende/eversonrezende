@@ -1,13 +1,3 @@
-### Olá, comunidade! Meu nome é Everson Rezende! ☺️
-
-
-- 🔭 Trabalho no Departamento de Tecnologia da Informação de um Hospital, como Auxiliar de Sistemas, atuo principalmente com suporte ao usuário voltado ao sistema interno que utilizamos (Tasy), consulta de regras de negócio, atendimentos de chamados, etc.
-  - Manipulação BD Oracle
-  - Criação de Relatórios utilizando BD Oracle
-  -	Suporte ao Usuário
-  -	Sistema hospitalar TASY Philips
-
-- 🌱 Atualmente estou focando nos estudos em HTML, CSS e JavaScript.
 
  <div>
   <a href="https://github.com/eversonrezende">
