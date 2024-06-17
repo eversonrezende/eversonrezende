@@ -8,7 +8,7 @@
 
 Desenvolvedor de Sistemas em uma empresa multinacional de ferramentas de corte;
 
-🌐 Pós graduando em Desenvolvimento Full Stack - PUCRS;
+🌐 Pós-graduando em Desenvolvimento Full Stack - PUCRS;
 
 🖥️ Formado em Análise e Desenvolvimento de Sistemas - IFSP;
 
